@@ -26,7 +26,7 @@ As mirrors were being placed, marking (I highlighted cells in yellow, for instan
 
 ### Answer
 
-![Final Maze of Mirrors](./photos/mar25.png)
+![Final Maze of Mirrors](./images/mar25.png)
 
 ---
 
