@@ -7,7 +7,7 @@ description: A personal blog
 github_username: maxmayer
 linkedin_username: your-linkedin
 
-remote_theme: erikolson186/dark-poole
+remote_theme: andrewhwanpark/dark-poole
 
 # Make sure GitHub Pages can build it:
 plugins:
