@@ -8,7 +8,7 @@ Welcome to my repository where I share my solutions to the Jane Street [monthly 
 - **[December 2024: Games Night!](solutions/dec24.md)**
 - **[January 2025: Somewhat Square Sudoku](solutions/jan25.md)**
 - **[February 2025: Top Score (Give or Take)](solutions/feb25.md)**
-- ***March 2025: Hall of Mirrors 3 (in progress...)***
+- **[March 2025: Hall of Mirrors 3](solutions/mar25.md)** 
 - ***April 2025: Sum One, Somewhere (in progress...)***
 
 ---
