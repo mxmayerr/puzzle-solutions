@@ -28,6 +28,8 @@ As mirrors were being placed, marking (I highlighted cells in yellow, for instan
 
 ![Final Maze of Mirrors](./images/mar25.png)
 
+The missing clue numbers are in red in the image above. Clockwise from the top they sum to $480$, $166$, $3356$, and $2251$. This gives a product of **$601,931,086,080$**.
+
 ---
 
 ### About Me
