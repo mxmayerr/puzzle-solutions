@@ -1,4 +1,7 @@
-## Jane Street Solutions
+---
+title: Jane Street Solutions
+layout: page
+---
 
 Welcome to my repository where I share my solutions to the Jane Street [monthly puzzles](https://www.janestreet.com/puzzles/current-puzzle/). Click below to be taken to my solution.
 
