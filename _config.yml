@@ -1,14 +1,9 @@
-title: My Cool Dark Blog
+title: Jane Street Puzzle Solutions
 author: Max Mayer
-email: you@example.com
-description: A personal blog
-
-# Optional social links
-github_username: maxmayer
-linkedin_username: your-linkedin
+email: max@maxcyrusmayer.com
+description: My solutions to the Jane Street monthly puzzles.
 
 remote_theme: andrewhwanpark/dark-poole
 
-# Make sure GitHub Pages can build it:
 plugins:
   - jekyll-remote-theme
