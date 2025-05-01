@@ -10,7 +10,7 @@ Solved on: April 11, 2025
 
 The puzzle description is pretty short, so here it is in full:
 
-*For a fixed _p_, independently label the nodes of an infinite complete binary tree 0 with probability _p_, and 1 otherwise. For what _p_ is there exactly a 1/2 probability that there exists an infinite path down the tree that sums to **at most 1** (that is, all nodes visited, with the possible exception of one, will be labeled 0). Find this value of _p_ accurate to **10 decimal places**.*
+*For a fixed $p$, independently label the nodes of an infinite complete binary tree $0$ with probability $p$, and $1$ otherwise. For what $p$ is there exactly a $\frac{1}{2}$ probability that there exists an infinite path down the tree that sums to **at most $1$** (that is, all nodes visited, with the possible exception of one, will be labeled $0$). Find this value of $p$ accurate to **10 decimal places**.*
 
 ### Initial Observations/Questions
 
