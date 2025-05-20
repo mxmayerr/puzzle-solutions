@@ -19,6 +19,10 @@ Welcome to my site where I share my solutions to different puzzle websites. I am
 
 ## Advent of Code
 *adding in progress...*
+
+## MAA Putnam
+*adding some interesting problems I encouter in progress...*
+
 ---
 
 ### About Me
