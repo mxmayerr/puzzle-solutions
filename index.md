@@ -13,6 +13,8 @@ Welcome to my site where I share my solutions to different puzzle websites. I am
 - **[March 2025: Hall of Mirrors 3](solutions/mar25.md)** 
 - **[April 2025: Sum One, Somewhere](solutions/apr25.md)**
 - ***May 2025: Number Cross 5** - in progress...*
+- **[June 2025: Some Ones, Somewhere](solutions/jun25.md)**
+- ***July 2025: Robot Road Trip** - in progress...*
 
 ## Project Euler
 *adding in progress...*
